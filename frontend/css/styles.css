@@ -1,0 +1,289 @@
+body
+{
+	background-color: #0f3057;
+}
+
+#title{
+	color: white;
+	text-align: center;
+	padding: 25px;
+}
+
+.heading{
+	color: black;
+	text-align: center;
+	padding: 25px;
+
+}
+
+.main{
+	background-color: #e7eaee;
+	justify-content: center;
+	padding: 20px 10px 70px;
+	margin: 2% 25%;
+	box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
+}
+
+.login{
+	text-align: center;
+}
+
+.register{
+	text-align: center;
+	padding: 20px;
+}
+
+.registerForm{
+	text-align: center;
+}
+
+input[type=submit] {
+	background-color: #46a549;
+	color: white;
+	border-color: black;
+	padding: 5px 10px;
+}
+
+.fa-edit, .fa-user{
+	padding: 10px;
+	font-size: 50px;
+}
+
+.fa-user-circle {
+	font-size: 150px;
+}
+
+#userIdIcon {
+	font-size: 40px;
+}
+
+#userProfilePicDefault {
+	font-size: 150px;
+	text-align: center;
+	align-items: center;
+}
+
+/* New Styles - */
+
+#userProfilePic {
+	width: 150px;
+	height: 150px;
+	position: relative;
+}
+
+#leftDisplay{
+	width: 900px;
+	text-align: center;
+	border-right: 2px solid #0f3057;
+	overflow: hidden; /* This might work? */
+}
+
+#rightDisplay{
+
+}
+
+#date{
+	text-align: right;
+}
+
+#postUpperBody{
+	padding: 25px;
+	margin-bottom: 75px;
+	justify-content: center !important;
+}
+
+#viewButtonDiv{
+	margin: 5px;
+	padding: 5px;
+}
+
+#postLowerBody{
+	padding: 5px;
+	margin: 0px;
+}
+
+#mainContainer{
+	margin: 10px;
+	max-width: 95%;
+	margin: 2% 5%;
+
+}
+
+.profileMainHeader{
+	background-color: white;
+	text-align: center;
+	
+}
+
+#welcomeName {
+	margin-bottom: 40px;
+}
+
+#searchResultsNamePic{
+	padding: 20px;
+}
+
+.jumbotron{
+	background-color: white;
+}
+
+
+/* End of New */
+
+
+/* Test Style */
+#leftDisplayProfileSearch {
+	background-color: #e7eaee;
+	padding: 20px;
+	margin: 5px;
+	min-width: 15%;
+	box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
+
+}
+
+#rightDisplayProfileSearch {
+	background-color: #e7eaee;
+	min-width: 75%;
+	max-width: 95%;
+	padding: 20px;
+	margin: 5px;
+	box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
+
+}
+
+#maincontainer2{
+	max-width: 95%;
+	margin: 2% 5%;
+}
+
+#mainRow{
+	text-align: center;
+}	
+
+#leftDisplayProfileSearch-small {
+	display: none;
+}
+
+/* Change CSS when broswer is less than 945px */
+@media only screen and (max-width: 	945px) {
+	#userProfilePic {
+		width: 100px;
+		height: 100px;
+	}
+	#userProfilePicDefault{
+		font-size: 100px;
+	}
+
+	#leftDisplayProfileSearch {
+		display: none;
+	}
+
+	#leftDisplayProfileSearch-small{
+		display: block;
+		margin-bottom: 20px;
+	}
+
+	#rightDisplayProfileSearch {
+		min-width: 50%;
+	}
+
+	#postUpperBody{
+		margin-bottom: 20px;
+	}
+
+}
+
+
+/* End of Test Style */
+
+
+.profileMain{
+	background-color: #e7eaee;
+	padding: 20px 100px;
+	margin: 2%;
+	text-align: center;
+}
+
+.searchMain{
+	text-align: left;
+	padding: 50px;
+}
+
+#displayAnnouncement{
+	padding: 40px;
+	background-color: blue;
+}
+
+.searchBar{
+	text-align: center;
+	float: center;
+	padding: 15px;
+	margin: 5px;
+	size: 150px;
+}
+
+.profileSearch{
+	background-color: #e7eaee;
+	padding: 25px;
+	margin: 2% 15%;
+	box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
+}
+
+.personalProfile{
+	text-align: left;
+}
+
+#bodyTitle{
+	color: white;
+	font-size: 40px;
+	text-align: center;
+	padding: 75px 5px 10px; 
+}
+
+.navbar {
+	padding: 5px 30px;
+	justify-content: center;
+}
+
+#mainButtons {
+	background-color: #e7eaee;
+	font-size: 15px;
+	padding: 15px 30px;
+	margin: 5px;
+	border-style: solid;
+	border-width: 2px;
+}
+
+#logout {
+	color: #8b0000;
+	float: right;
+}
+
+#postAannouncement {
+	margin: 10px;
+	padding: 5px;
+}
+
+hr {
+	background-color: #0f3057;
+	margin: 2rem;
+	}
+
+html {
+	scroll-behavior: smooth;
+}
+
+
+a {
+	text-decoration: inherit;
+	color: black;
+}
+
+a:hover {
+	text-decoration: inherit;
+}
+.bg-red {
+  background-color: red; 
+}
+
+

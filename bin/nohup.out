@@ -1,0 +1,575 @@
+
+Server Started
+New connection! (51)
+Connection 51 sending message "{"msg":"Hello\n","username":"andyuser","userId":"53"}" to 0 other connections
+connectedConnection 51 has disconnected
+New connection! (87)
+Connection 87 has disconnected
+New connection! (90)
+Connection 90 has disconnected
+New connection! (93)
+Connection 93 sending message "{"msg":"Hello","username":"andyuser","userId":"53"}" to 0 other connections
+connectedNew connection! (97)
+Connection 93 has disconnected
+New connection! (100)
+Connection 100 sending message "{"msg":"Testing","username":"andyuser","userId":"53"}" to 1 other connection
+connectedConnection 97 has disconnected
+Connection 100 has disconnected
+New connection! (104)
+Connection 104 has disconnected
+New connection! (107)
+New connection! (110)
+Connection 107 sending message "{"msg":"hey","username":"andyuser","userId":"53"}" to 1 other connection
+connectedConnection 110 sending message "{"msg":"hi\n","username":"john","userId":"51"}" to 1 other connection
+connectedConnection 110 has disconnected
+Connection 107 has disconnected
+New connection! (115)
+New connection! (118)
+Connection 118 sending message "{"msg":"hey","username":"john","userId":"51"}" to 1 other connection
+connectedConnection 115 sending message "{"msg":"how you been ?","username":"andyuser","userId":"53"}" to 1 other connection
+connectedConnection 118 has disconnected
+Connection 115 has disconnected
+New connection! (123)
+New connection! (126)
+Connection 126 sending message "{"msg":"hello","username":"andyuser","userId":"53"}" to 1 other connection
+connectedConnection 123 sending message "{"msg":"hey","username":"john","userId":"51"}" to 1 other connection
+connectedConnection 126 has disconnected
+Connection 123 has disconnected
+New connection! (131)
+Connection 131 has disconnected
+New connection! (134)
+Connection 134 sending message "{"msg":"hi\n","username":"devendra","userId":"59"}" to 0 other connections
+connectedConnection 134 has disconnected
+New connection! (138)
+Connection 138 sending message "{"msg":"hello","username":"andyuser","userId":"53"}" to 0 other connections
+connectedNew connection! (142)
+Connection 142 has disconnected
+Connection 138 has disconnected
+New connection! (145)
+New connection! (148)
+Connection 145 sending message "{"msg":"hey\n","username":"devendra","userId":"59"}" to 1 other connection
+connectedConnection 148 sending message "{"msg":"hello","username":"andyuser","userId":"53"}" to 1 other connection
+connectedConnection 148 has disconnected
+Connection 145 has disconnected
+New connection! (153)
+Connection 153 has disconnected
+New connection! (156)
+New connection! (159)
+Connection 156 sending message "{"msg":"heyy\n","username":"devendra","userId":"55"}" to 1 other connection
+connectedConnection 159 sending message "{"msg":"hiii","username":"john","userId":"51"}" to 1 other connection
+connectedConnection 156 has disconnected
+Connection 159 has disconnected
+New connection! (164)
+New connection! (167)
+Connection 167 sending message "{"msg":"hello","username":"andyuser","userId":"53"}" to 1 other connection
+connectedConnection 164 sending message "{"msg":"what is up\n","username":"john","userId":"51"}" to 1 other connection
+connectedConnection 167 has disconnected
+Connection 164 has disconnected
+New connection! (172)
+Connection 172 has disconnected
+New connection! (175)
+Connection 175 has disconnected
+New connection! (178)
+New connection! (181)
+Connection 181 sending message "{"msg":"hey\n","username":"andyuser","userId":"53"}" to 1 other connection
+connectedConnection 178 sending message "{"msg":"hi","username":"john","userId":"51"}" to 1 other connection
+connectedConnection 181 has disconnected
+Connection 178 has disconnected
+New connection! (186)
+New connection! (189)
+Connection 189 sending message "{"msg":"hello","username":"john","userId":"51"}" to 1 other connection
+connectedConnection 186 sending message "{"msg":"how are you","username":"jc","userId":"60"}" to 1 other connection
+connectedConnection 186 has disconnected
+Connection 189 has disconnected
+New connection! (194)
+Connection 194 has disconnected
+New connection! (197)
+Connection 197 has disconnected
+New connection! (200)
+Connection 200 has disconnected
+New connection! (203)
+Connection 203 has disconnected
+New connection! (206)
+Connection 206 has disconnected
+New connection! (209)
+Connection 209 has disconnected
+New connection! (212)
+Connection 212 has disconnected
+New connection! (215)
+Connection 215 has disconnected
+New connection! (218)
+Connection 218 sending message "{"msg":"heyy","username":"devendra","userId":"55"}" to 0 other connections
+connectedNew connection! (222)
+Connection 222 sending message "{"msg":"hi\n","username":"john","userId":"51"}" to 1 other connection
+connectedConnection 218 sending message "{"msg":"heeeey","username":"devendra","userId":"55"}" to 1 other connection
+connectedConnection 222 has disconnected
+Connection 218 has disconnected
+New connection! (227)
+Connection 227 has disconnected
+New connection! (230)
+Connection 230 has disconnected
+New connection! (233)
+Connection 233 has disconnected
+New connection! (236)
+Connection 236 has disconnected
+New connection! (239)
+Connection 239 has disconnected
+New connection! (242)
+Connection 242 has disconnected
+New connection! (245)
+Connection 245 has disconnected
+New connection! (248)
+Connection 248 has disconnected
+New connection! (251)
+Connection 251 has disconnected
+New connection! (254)
+Connection 254 has disconnected
+New connection! (257)
+Connection 257 has disconnected
+New connection! (260)
+Connection 260 has disconnected
+New connection! (263)
+Connection 263 has disconnected
+New connection! (266)
+Connection 266 has disconnected
+New connection! (269)
+Connection 269 has disconnected
+New connection! (272)
+Connection 272 has disconnected
+New connection! (275)
+Connection 275 has disconnected
+New connection! (278)
+Connection 278 has disconnected
+New connection! (281)
+Connection 281 has disconnected
+New connection! (284)
+Connection 284 has disconnected
+New connection! (287)
+Connection 287 has disconnected
+New connection! (290)
+Connection 290 has disconnected
+New connection! (293)
+Connection 293 has disconnected
+New connection! (296)
+Connection 296 has disconnected
+New connection! (299)
+Connection 299 has disconnected
+New connection! (302)
+Connection 302 has disconnected
+New connection! (305)
+Connection 305 has disconnected
+New connection! (308)
+Connection 308 has disconnected
+New connection! (311)
+Connection 311 has disconnected
+New connection! (314)
+Connection 314 has disconnected
+New connection! (317)
+Connection 317 has disconnected
+New connection! (320)
+Connection 320 has disconnected
+New connection! (323)
+Connection 323 has disconnected
+New connection! (326)
+Connection 326 has disconnected
+New connection! (329)
+Connection 329 has disconnected
+New connection! (332)
+Connection 332 has disconnected
+New connection! (335)
+Connection 335 has disconnected
+New connection! (338)
+Connection 338 sending message "{"msg":"hey\n","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 338 has disconnected
+New connection! (342)
+Connection 342 has disconnected
+New connection! (345)
+Connection 345 has disconnected
+New connection! (348)
+Connection 348 has disconnected
+New connection! (351)
+Connection 351 has disconnected
+New connection! (354)
+Connection 354 has disconnected
+New connection! (357)
+Connection 357 has disconnected
+New connection! (360)
+Connection 360 has disconnected
+New connection! (363)
+Connection 363 has disconnected
+New connection! (366)
+Connection 366 has disconnected
+New connection! (369)
+Connection 369 has disconnected
+New connection! (372)
+Connection 372 has disconnected
+New connection! (375)
+Connection 375 has disconnected
+New connection! (378)
+Connection 378 has disconnected
+New connection! (381)
+Connection 381 has disconnected
+New connection! (384)
+Connection 384 has disconnected
+New connection! (387)
+Connection 387 has disconnected
+New connection! (390)
+Connection 390 has disconnected
+New connection! (393)
+Connection 393 has disconnected
+New connection! (396)
+Connection 396 has disconnected
+New connection! (399)
+Connection 399 has disconnected
+New connection! (402)
+Connection 402 has disconnected
+New connection! (405)
+Connection 405 has disconnected
+New connection! (408)
+Connection 408 has disconnected
+New connection! (411)
+Connection 411 has disconnected
+New connection! (414)
+Connection 414 has disconnected
+New connection! (417)
+Connection 417 has disconnected
+New connection! (420)
+Connection 420 has disconnected
+New connection! (423)
+Connection 423 has disconnected
+New connection! (426)
+Connection 426 has disconnected
+New connection! (429)
+Connection 429 has disconnected
+New connection! (432)
+Connection 432 has disconnected
+New connection! (435)
+Connection 435 has disconnected
+New connection! (438)
+Connection 438 has disconnected
+New connection! (441)
+Connection 441 sending message "{"msg":"geyyyyy\n","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 441 sending message "{"msg":"www.google.com\n","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 441 has disconnected
+New connection! (446)
+Connection 446 has disconnected
+New connection! (449)
+Connection 449 has disconnected
+New connection! (452)
+Connection 452 sending message "{"msg":"hi","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 452 has disconnected
+New connection! (456)
+Connection 456 has disconnected
+New connection! (459)
+Connection 459 has disconnected
+New connection! (462)
+Connection 462 has disconnected
+New connection! (465)
+Connection 465 has disconnected
+New connection! (468)
+Connection 468 has disconnected
+New connection! (471)
+Connection 471 has disconnected
+New connection! (474)
+Connection 474 has disconnected
+New connection! (477)
+Connection 477 has disconnected
+New connection! (480)
+Connection 480 has disconnected
+New connection! (483)
+Connection 483 has disconnected
+New connection! (486)
+Connection 486 has disconnected
+New connection! (489)
+Connection 489 has disconnected
+New connection! (492)
+Connection 492 has disconnected
+New connection! (495)
+Connection 495 has disconnected
+New connection! (498)
+Connection 498 has disconnected
+New connection! (501)
+Connection 501 has disconnected
+New connection! (504)
+Connection 504 has disconnected
+New connection! (507)
+Connection 507 has disconnected
+New connection! (510)
+Connection 510 has disconnected
+New connection! (513)
+Connection 513 has disconnected
+New connection! (516)
+Connection 516 has disconnected
+New connection! (519)
+Connection 519 has disconnected
+New connection! (522)
+Connection 522 has disconnected
+New connection! (525)
+Connection 525 has disconnected
+New connection! (528)
+Connection 528 has disconnected
+New connection! (531)
+Connection 531 has disconnected
+New connection! (534)
+Connection 534 has disconnected
+New connection! (537)
+Connection 537 has disconnected
+New connection! (540)
+Connection 540 has disconnected
+New connection! (543)
+Connection 543 sending message "{"msg":"hi\n","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 543 sending message "{"msg":"fad","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 543 has disconnected
+New connection! (548)
+Connection 548 has disconnected
+New connection! (551)
+Connection 551 has disconnected
+New connection! (554)
+Connection 554 has disconnected
+New connection! (557)
+Connection 557 has disconnected
+New connection! (560)
+Connection 560 has disconnected
+New connection! (563)
+Connection 563 has disconnected
+New connection! (566)
+Connection 566 has disconnected
+New connection! (569)
+Connection 569 has disconnected
+New connection! (572)
+Connection 572 has disconnected
+New connection! (575)
+Connection 575 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 575 has disconnected
+New connection! (579)
+Connection 579 has disconnected
+New connection! (582)
+Connection 582 has disconnected
+New connection! (585)
+Connection 585 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedNew connection! (589)
+Connection 589 has disconnected
+Connection 585 has disconnected
+New connection! (592)
+Connection 592 has disconnected
+New connection! (595)
+Connection 595 has disconnected
+New connection! (598)
+Connection 598 has disconnected
+New connection! (601)
+Connection 601 has disconnected
+New connection! (604)
+Connection 604 has disconnected
+New connection! (607)
+Connection 607 has disconnected
+New connection! (610)
+Connection 610 has disconnected
+New connection! (613)
+Connection 613 has disconnected
+New connection! (616)
+Connection 616 has disconnected
+New connection! (619)
+Connection 619 has disconnected
+New connection! (622)
+Connection 622 has disconnected
+New connection! (625)
+Connection 625 has disconnected
+New connection! (628)
+Connection 628 has disconnected
+New connection! (631)
+Connection 631 has disconnected
+New connection! (634)
+Connection 634 has disconnected
+New connection! (637)
+Connection 637 has disconnected
+New connection! (640)
+Connection 640 has disconnected
+New connection! (643)
+Connection 643 has disconnected
+New connection! (646)
+Connection 646 has disconnected
+New connection! (649)
+Connection 649 has disconnected
+New connection! (652)
+Connection 652 has disconnected
+New connection! (655)
+Connection 655 has disconnected
+New connection! (658)
+Connection 658 has disconnected
+New connection! (661)
+Connection 661 has disconnected
+New connection! (664)
+Connection 664 has disconnected
+New connection! (667)
+Connection 667 has disconnected
+New connection! (670)
+Connection 670 has disconnected
+New connection! (673)
+Connection 673 has disconnected
+New connection! (676)
+Connection 676 has disconnected
+New connection! (679)
+Connection 679 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 679 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 679 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 679 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 679 has disconnected
+New connection! (686)
+Connection 686 sending message "{"msg":"h","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 686 sending message "{"msg":"fdafad","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 686 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 686 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 686 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 686 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 686 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 686 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 686 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 686 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 686 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 686 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 686 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 686 sending message "{"msg":"","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 686 has disconnected
+New connection! (703)
+Connection 703 has disconnected
+New connection! (706)
+Connection 706 has disconnected
+New connection! (709)
+Connection 709 has disconnected
+New connection! (712)
+Connection 712 has disconnected
+New connection! (715)
+Connection 715 has disconnected
+New connection! (718)
+Connection 718 sending message "{"msg":"hey","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 718 has disconnected
+New connection! (722)
+Connection 722 has disconnected
+New connection! (725)
+Connection 725 has disconnected
+New connection! (728)
+Connection 728 has disconnected
+New connection! (731)
+Connection 731 has disconnected
+New connection! (734)
+Connection 734 has disconnected
+New connection! (737)
+Connection 737 has disconnected
+New connection! (740)
+Connection 740 sending message "{"msg":"hey","username":"devendra","userId":"55"}" to 0 other connections
+connectedNew connection! (744)
+Connection 744 sending message "{"msg":"heyy","username":"john","userId":"51"}" to 1 other connection
+connectedConnection 740 sending message "{"msg":"hey","username":"devendra","userId":"55"}" to 1 other connection
+connectedConnection 744 has disconnected
+New connection! (749)
+Connection 749 has disconnected
+New connection! (752)
+Connection 752 has disconnected
+New connection! (755)
+Connection 755 has disconnected
+New connection! (758)
+Connection 758 has disconnected
+Connection 740 has disconnected
+New connection! (761)
+Connection 761 has disconnected
+New connection! (764)
+Connection 764 has disconnected
+New connection! (767)
+New connection! (770)
+Connection 767 has disconnected
+Connection 770 has disconnected
+New connection! (773)
+New connection! (776)
+Connection 773 sending message "{"msg":"hey\n","username":"andyuser","userId":"53"}" to 1 other connection
+connectedConnection 776 sending message "{"msg":"hello","username":"john","userId":"51"}" to 1 other connection
+connectedConnection 776 has disconnected
+Connection 773 has disconnected
+New connection! (781)
+Connection 781 has disconnected
+New connection! (784)
+Connection 784 has disconnected
+New connection! (787)
+Connection 787 has disconnected
+New connection! (790)
+Connection 790 has disconnected
+New connection! (793)
+New connection! (796)
+Connection 796 sending message "{"msg":"hey","username":"john","userId":"51"}" to 1 other connection
+connectedConnection 793 sending message "{"msg":"hello","username":"andyuser","userId":"53"}" to 1 other connection
+connectedConnection 796 has disconnected
+Connection 793 has disconnected
+New connection! (801)
+New connection! (804)
+Connection 801 sending message "{"msg":"hey","username":"john","userId":"51"}" to 1 other connection
+connectedConnection 804 sending message "{"msg":"hello","username":"andyuser","userId":"53"}" to 1 other connection
+connectedConnection 801 has disconnected
+Connection 804 has disconnected
+New connection! (809)
+Connection 809 has disconnected
+New connection! (812)
+Connection 812 sending message "{"msg":"fadfa","username":"devendra","userId":"55"}" to 0 other connections
+connectedConnection 812 has disconnected
+New connection! (816)
+New connection! (819)
+Connection 819 sending message "{"msg":"hello","username":"andyuser","userId":"53"}" to 1 other connection
+connectedConnection 816 sending message "{"msg":"hi","username":"john","userId":"51"}" to 1 other connection
+connectedConnection 819 has disconnected
+Connection 816 has disconnected
+New connection! (824)
+Connection 824 has disconnected
+New connection! (827)
+Connection 827 has disconnected
+New connection! (830)
+New connection! (833)
+Connection 830 sending message "{"msg":"hey\n","username":"123","userId":"57"}" to 1 other connection
+connectedPHP Notice:  Trying to access array offset on value of type bool in /var/www/project/master/src/Chat.php on line 40
+
+Notice: Trying to access array offset on value of type bool in /var/www/project/master/src/Chat.php on line 40
+Connection 833 sending message "{"msg":"hi hi","username":"devendra","userId":"55"}" to 1 other connection
+connectedConnection 830 has disconnected
+New connection! (838)
+Connection 838 has disconnected
+Connection 833 has disconnected
+New connection! (841)
+New connection! (844)
+Connection 844 sending message "{"msg":"hello","username":"Andy","userId":"56"}" to 1 other connection
+connectedConnection 841 sending message "{"msg":"hi","username":"john","userId":"55"}" to 1 other connection
+connectedConnection 844 has disconnected
+Connection 841 has disconnected
+New connection! (849)
+New connection! (852)
+Connection 849 sending message "{"msg":"hello","username":"john","userId":"55"}" to 1 other connection
+connectedConnection 852 sending message "{"msg":"hi\n","username":"Andy","userId":"56"}" to 1 other connection
+connectedConnection 849 has disconnected
+Connection 852 has disconnected
+New connection! (857)
+Connection 857 has disconnected
+New connection! (860)
+Connection 860 has disconnected
+New connection! (863)
+New connection! (866)
+Connection 866 sending message "{"msg":"hey","username":"bobby","userId":"65"}" to 1 other connection
+connectedConnection 863 sending message "{"msg":"what's up","username":"devendra","userId":"60"}" to 1 other connection
+connectedConnection 863 has disconnected
+Connection 866 has disconnected
+New connection! (871)
+Connection 871 has disconnected
+New connection! (874)
+Connection 874 has disconnected
+New connection! (877)
+Connection 877 has disconnected
+New connection! (880)
+Connection 880 has disconnected
+New connection! (883)
+Connection 883 has disconnected
+New connection! (886)
+Connection 886 sending message "{"msg":"hi","username":"devendra","userId":"60"}" to 0 other connections
+connectedConnection 886 has disconnected
+New connection! (890)
+New connection! (893)
+Connection 893 sending message "{"msg":"hello\n","username":"Jack","userId":"66"}" to 1 other connection
+connectedConnection 890 sending message "{"msg":"hi","username":"john","userId":"55"}" to 1 other connection
+connectedConnection 893 has disconnected
+Connection 890 has disconnected
+New connection! (898)
+Connection 898 has disconnected

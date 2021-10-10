@@ -1,0 +1,148 @@
+body
+{
+	background-color: #0f3057;
+}
+
+#title{
+	color: white;
+	text-align: center;
+	padding: 25px;
+}
+
+.heading{
+	color: black;
+	text-align: center;
+	padding: 25px;
+
+}
+
+.main{
+	background-color: #e7eaee;
+	justify-content: center;
+	padding: 20px 10px 70px;
+	margin: 2% 25%;
+	box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
+}
+
+.login{
+	text-align: center;
+}
+
+.register{
+	text-align: center;
+	padding: 20px;
+}
+
+.registerForm{
+	text-align: center;
+}
+
+input[type=submit] {
+	background-color: #46a549;
+	color: white;
+	border-color: black;
+	padding: 5px 10px;
+}
+
+.fa-edit, .fa-user{
+	padding: 10px;
+	font-size: 50px;
+}
+
+.fa-user-circle {
+	font-size: 150px;
+}
+
+#userIdIcon {
+	font-size: 40px;
+}
+
+.profileMain{
+	background-color: #e7eaee;
+	padding: 20px 100px;
+	margin: 2%;
+	text-align: center;
+	overflow: hidden; /* Prevents elements from going outside the div */
+}
+
+.searchMain{
+	text-align: left;
+	padding: 50px;
+}
+
+#displayAnnouncement{
+	padding: 40px;
+	background-color: blue;
+}
+
+.searchBar{
+	text-align: center;
+	float: center;
+	padding: 15px;
+	margin: 5px;
+	size: 150px;
+}
+
+.profileSearch{
+	background-color: #e7eaee;
+	padding: 25px;
+	margin: 2% 5%;
+	box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
+}
+
+.personalProfile{
+	text-align: left;
+}
+
+#bodyTitle{
+	color: white;
+	font-size: 40px;
+	text-align: center;
+	padding: 75px 5px 10px; 
+}
+
+.navbar {
+	padding: 5px 30px;
+	justify-content: center;
+}
+
+#mainButtons {
+	background-color: #e7eaee;
+	font-size: 15px;
+	padding: 15px 30px;
+	margin: 5px;
+	border-style: solid;
+	border-width: 2px;
+}
+
+#logout {
+	color: #8b0000;
+	float: right;
+}
+
+#postAannouncement {
+	margin: 10px;
+	padding: 5px;
+}
+
+hr {
+	background-color: #0f3057;
+	margin: 2rem;
+	}
+
+html {
+	scroll-behavior: smooth;
+}
+
+
+a {
+	text-decoration: inherit;
+	color: black;
+}
+
+a:hover {
+	text-decoration: inherit;
+}
+.bg-red {
+  background-color: red; 
+}

@@ -1,0 +1,43 @@
+body
+{
+    background-color: #0f3057;
+    
+    
+}
+
+#bodyTitle{
+	color: white;
+	font-size: 40px;
+	padding: 75px 5px 20px; 
+}
+
+#bodySubTitle { 
+    color: black;
+    padding-bottom: 20px;
+    
+}
+
+#replies {
+    color:black;
+}
+
+.badge{
+    font-size: medium;
+}
+
+.col-3{
+    padding-bottom: 50px;
+}
+
+.container{
+    padding: 20px 10px 20px;
+    margin: 2% 10%;
+    background-color: #e7eaee;
+    justify-content: center;
+}
+
+#upvoteElementDiv, #downvoteElementDiv {
+    padding: 10px;
+}
+
+
